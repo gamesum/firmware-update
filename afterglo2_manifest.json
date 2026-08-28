@@ -1,23 +1,23 @@
 {
-  "version": "1.0.14",
+  "version": "1.0.15",
   "images": {
     "tree": {
       "asset": "afterglo2_tree.bin",
-      "url": "https://github.com/gamesum/firmware-update/releases/download/fw2-1.0.14/afterglo2_tree.bin",
-      "sha256": "65d9f93cfb9ea89eafba4052c4e1af06f85f67445955213b2a4bf6adf3f33442",
-      "size": 763104
+      "url": "https://github.com/gamesum/firmware-update/releases/download/fw2-1.0.15/afterglo2_tree.bin",
+      "sha256": "cc55a6c6c6cbe4380d316296a5238749b8fbe94bd8bbef7c2ee57b65a066809a",
+      "size": 763136
     },
     "roofline": {
       "asset": "afterglo2_roofline.bin",
-      "url": "https://github.com/gamesum/firmware-update/releases/download/fw2-1.0.14/afterglo2_roofline.bin",
-      "sha256": "b989fc2a7265eb041b471a35d894ad6d3ffb59f6a73c83b02b363c332fafd156",
-      "size": 763104
+      "url": "https://github.com/gamesum/firmware-update/releases/download/fw2-1.0.15/afterglo2_roofline.bin",
+      "sha256": "324d5ebbffc406d84f61a6861d2840241dbab701c9f0aedfa50dcf6f73b9ec41",
+      "size": 763136
     },
     "arch": {
       "asset": "afterglo2_arch.bin",
-      "url": "https://github.com/gamesum/firmware-update/releases/download/fw2-1.0.14/afterglo2_arch.bin",
-      "sha256": "68257c3e494cb1bb2ad48dfae1d630f108f515aac3fb57c597048606d0de4236",
-      "size": 763104
+      "url": "https://github.com/gamesum/firmware-update/releases/download/fw2-1.0.15/afterglo2_arch.bin",
+      "sha256": "6c39effac976b7d84a8dcc95d0281d95ffdc7ca9a226b96f910b8480c26484d2",
+      "size": 763136
     }
   }
 }
