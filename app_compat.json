@@ -1,0 +1,9 @@
+{
+  "_comment": "Lowest app build (the +N in pubspec) each roofline firmware needs. A firmware may only be published in afterglo2_manifest_v2.json with minAppBuild >= this. Add the new firmware here BEFORE publishing it, with the build of the app released alongside it. Checked by tools/check_manifest.py.",
+  "roofline": {
+    "1.4.0": 67,
+    "1.5.0": 67,
+    "1.6.0": 78,
+    "1.7.0": 79
+  }
+}
