@@ -1,5 +1,5 @@
 {
-  "version": "1.5.0",
+  "version": "1.7.0",
   "images": {
     "tree": {
       "asset": "afterglo2_tree.bin",
@@ -10,11 +10,11 @@
     },
     "roofline": {
       "asset": "afterglo2_roofline.bin",
-      "url": "https://github.com/gamesum/firmware-update/releases/download/fw2-1.5.0/afterglo2_roofline.bin",
-      "sha256": "41b42cf9f30eaa2c2e480640d67370accad0b404ff44453aacdcdf980aab2edb",
-      "size": 1406432,
-      "version": "1.5.0",
-      "minAppBuild": 67
+      "url": "https://github.com/gamesum/firmware-update/releases/download/fw2-1.7.0/afterglo2_roofline.bin",
+      "sha256": "de4ada5db30b4db17c55f66e5cf6c2d9b8ad565098675e676af92dc73e4ba09d",
+      "size": 1415040,
+      "version": "1.7.0",
+      "minAppBuild": 79
     },
     "arch": {
       "asset": "afterglo2_arch.bin",
